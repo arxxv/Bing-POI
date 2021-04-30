@@ -1,0 +1,12 @@
+Name - Rivandar Peimary Health Centre
+Address - Ribander, North Goa, Goa, IND
+Postal Code - 403006
+Latitude - 15.505356
+Longitude - 73.864961
+
+Name - Health Post
+Address - Ribander, North Goa, Goa, IND
+Postal Code - 
+Latitude - 15.5052149
+Longitude - 73.8647702
+

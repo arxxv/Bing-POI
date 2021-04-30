@@ -1,0 +1,4 @@
+6 ATMs
+6 Banks
+2 Hospitals
+2 Police Stations

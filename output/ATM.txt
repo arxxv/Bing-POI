@@ -1,0 +1,36 @@
+Name - ICICI Bank ATM
+Address - Piedade, North Goa, Goa, IND
+Postal Code - 
+Latitude - 15.530497
+Longitude - 73.904056
+
+Name - State Bank of India ATM
+Address - Britona, North Goa, Goa, IND
+Postal Code - 
+Latitude - 15.549891
+Longitude - 73.892265
+
+Name - ICICI Bank ATM
+Address - Baingina, North Goa, Goa, IND
+Postal Code - 403403
+Latitude - 15.501491
+Longitude - 73.909513
+
+Name - IndusInd Bank ATM
+Address - Baingina, North Goa, Goa, IND
+Postal Code - 
+Latitude - 15.501646
+Longitude - 73.909854
+
+Name - Central Bank of India ATM
+Address - Piedade, North Goa, Goa, IND
+Postal Code - 
+Latitude - 15.527611
+Longitude - 73.901034
+
+Name - Canara Bank ATM
+Address - Britona, North Goa, Goa, IND
+Postal Code - 403102
+Latitude - 15.520975
+Longitude - 73.870772
+

@@ -1,0 +1,36 @@
+Name - State Bank of India
+Address - Britona, North Goa, Goa, IND
+Postal Code - 403402
+Latitude - 15.549892
+Longitude - 73.892269
+
+Name - ICICI Bank
+Address - Piedade, North Goa, Goa, IND
+Postal Code - 
+Latitude - 15.530496
+Longitude - 73.904068
+
+Name - Canara Bank
+Address - Britona, North Goa, Goa, IND
+Postal Code - 403402
+Latitude - 15.520976
+Longitude - 73.870778
+
+Name - Central Bank of India
+Address - Britona, North Goa, Goa, IND
+Postal Code - 403402
+Latitude - 15.554231
+Longitude - 73.887471
+
+Name - The Mapusa Urban Co-operative Credit Society Limited
+Address - Piedade, North Goa, Goa, IND
+Postal Code - 403402
+Latitude - 15.527908
+Longitude - 73.905208
+
+Name - Central Bank of India
+Address - Britona, North Goa, Goa, IND
+Postal Code - 403402
+Latitude - 15.553107
+Longitude - 73.888929
+
