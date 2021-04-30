@@ -1,1 +1,1 @@
-api_key = "Av5671rOkaL95DeYMQ9IPR3nr3ECXU5Cr1l1VhIQD7dHv1vFVme41Q4sQcfmBvKn"
+api_key = "YOUR-BING-API-KEY-HERE"
